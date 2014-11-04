@@ -38,4 +38,6 @@ function getVideoId($artist, $musicTitle){
 }
 
 echo getVideoId("yui", "i feel my soul");
+# return -> el4DrR64Qns
+# you see youtube -> https://www.youtube.com/watch?v=el4DrR64Qns
 
